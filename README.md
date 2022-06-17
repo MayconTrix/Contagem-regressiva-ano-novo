@@ -1,7 +1,7 @@
 # Contagem-regressiva-ano-novo
 <div id="top"></div>
 <div align="center">
-<h1>Nintendo-Switch!</h1>
+<h1>Contagem regressiva para o ano novo!</h1>
 <br>Projeto desenvolvido para estudo!
 
 <!-- PROJECT LOGO -->
